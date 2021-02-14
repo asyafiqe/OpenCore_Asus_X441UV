@@ -59,8 +59,8 @@ HDMI Port
 :x:Wifi. See notes.  
 
 ## Notes
-* OpenCore 0.6.0
-* Tested on Catalina 10.15.6.
+* OpenCore 0.6.6
+* Tested on Catalina 10.15.7. ==> still testing on BigSur
 * This configuration include `AppleCpuPmCfgLock` and `AppleXcpmCfgLock` fix under Kernel -> Quirks which may cause instability in long term use. Please refer to [this guide](https://dortania.github.io/OpenCore-Post-Install/misc/msr-lock.html) for better permanent solution.
 * I replaced my wifi card for dual band wireless support. Look at [this](https://osxlatitude.com/forums/topic/11138-inventory-of-supportedunsupported-wireless-cards-2-sierra-catalina/) for wifi fix. 
 * USB 3.0/2.0 ports were manually mapped with [USBMap](https://github.com/corpnewt/USBMap), if some ports doesn't work consider using [USBInjectAll.kext](https://github.com/Sniki/OS-X-USB-Inject-All) or [remap](https://dortania.github.io/OpenCore-Post-Install/usb/#macos-and-the-15-port-limit) by yourself.
