@@ -1,5 +1,5 @@
-# Asus-X441UV-Hackintosh-OpenCore
-Hackintosh EFI folder for Asus X441UV with OpenCore Bootloader
+# OpenCore_Asus_X441UV
+OpenCore EFI settings for Asus X441UV
 
 ![asusx441uv](https://www.asus.com/media/global/gallery/vxJCXiQvvDJIPwmt_setting_fff_1_90_end_500.png)
 
